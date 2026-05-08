@@ -1,0 +1,5 @@
+homepage: "https://taghero.io"
+documentation: "https://www.taghero.io/gtm-tag-template-documentation"
+versions:
+  - sha: 3c3af55aa152f45505ecce0a323aaa747d03037a
+    changeNotes: Initial release.
